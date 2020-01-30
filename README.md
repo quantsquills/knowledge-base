@@ -14,6 +14,7 @@ _This is currently a fairly disorganised brain-dump of what goes into running Ha
 * Update the meetup.com event description
   * Send announcement email
 * Add an event to the Facebook page 
+* Create event poster
 * Confirm date with ABC facilities
 * Ensure catering supplies are adequate for anticipated audience
   * Drinks
