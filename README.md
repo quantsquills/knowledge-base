@@ -47,7 +47,6 @@ _This is currently a fairly disorganised brain-dump of what goes into running Ha
 * Seek resources for the newsletter
   * Images
   * Summaries
-  * Etc
 * Thank volunteers 
 
 ## Event volunteer roles
