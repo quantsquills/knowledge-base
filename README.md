@@ -114,7 +114,7 @@ _This is currently a fairly disorganised brain-dump of what goes into running Ha
       <td style="text-align:left">Live tweet the event.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Event writeup for newsletter</td>
+      <td style="text-align:left">Event write up for newsletter</td>
       <td style="text-align:left">We do an event write up each month in the <a href="https://us20.campaign-archive.com/home/?u=b159620fe75ddd72734247f92&amp;id=298dc804d1">newsletter</a>.
         This requires some note taking at the event and some writing after the
         fact.</td>
