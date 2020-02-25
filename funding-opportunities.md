@@ -13,5 +13,5 @@
 | :--- | :--- |
 | Google News Initiative | The GNI sponsors a lot of stuff, including Hacks/Hackers London and other similar community news/tech events. |
 | Shorthand | Shorthand is right in the hitting zone for tech/storytelling crossover. Their products are likely to appeal to \(or they're likely to aim marketing at\) people like those who attend H/H. |
-|  |  |
+| [Judith Neilson Institute](https://jninstitute.org/) | No clear grant or funding opportunities are currently advertised, but it may be worth [finding out more](https://jninstitute.org/partnerships). |
 
