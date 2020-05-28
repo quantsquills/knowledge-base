@@ -2,6 +2,10 @@
 
 Platform possibilities:
 
-* [https://hopin.to/](https://hopin.to/?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-81)
-* zoom
-* 
+| Name | Notes |
+| :--- | :--- |
+| [Hopin](https://hopin.to/) |  |
+| Zoom |  |
+| Teams |  |
+| [Crowd Cast](https://www.crowdcast.io) |  |
+
