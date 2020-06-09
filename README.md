@@ -11,6 +11,8 @@ _This is currently a fairly disorganised brain-dump of what goes into running Ha
 ### Planning
 
 * Get a speaker
+  * What makes a good talk?
+    * Behind-the-scenes — what are the thought processes, decisions and other efforts that have gone into making this great, polished thing that's been published.
 * Update the meetup.com event description
   * Send announcement email
 * Add an event to the Facebook page 
@@ -136,6 +138,8 @@ _This is currently a fairly disorganised brain-dump of what goes into running Ha
     </tr>
   </tbody>
 </table>
+
+
 
 
 
