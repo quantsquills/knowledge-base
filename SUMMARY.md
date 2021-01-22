@@ -4,4 +4,5 @@
 * [Event platforms](event-platforms.md)
 * [Funding opportunities](funding-opportunities.md)
 * [Remote events](remote-events.md)
+* [Potential speakers and topics](potential-speakers-and-topics.md)
 
