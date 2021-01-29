@@ -5,4 +5,5 @@
 * [Funding opportunities](funding-opportunities.md)
 * [Remote events](remote-events.md)
 * [Potential speakers and topics](potential-speakers-and-topics.md)
+* [Newsletter notes](newsletter-notes.md)
 
