@@ -20,4 +20,5 @@ description: >-
 | Topic |  |
 | :--- | :--- |
 | Interrogating large text dumps |  |
+| What stories aren't being told? Or, which stories are really hard to tell? | I've been thinking a lot about how we communicate the importance of data privacy and data collection |
 
