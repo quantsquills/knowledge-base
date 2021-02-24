@@ -21,7 +21,7 @@ TJ pics
 * Reuters study graphs - time spent with news was 16 mins per week
 * I'm going to talk about journalism in a way that journalist don't usually talk about journalism - that is, that it's a business
 *  Other industries have responded well
-* perhaps the focus has been on the wrong thing - breaking down to profit and revenue, it's about trying to shift the focus a little bit
+* **perhaps the focus has been on the wrong thing** - breaking down to profit and revenue, it's about trying to shift the focus a little bit
 * maybe if we can look at the situation from another angle, we can start looking at actual solutions
 * an industrial analysis starts with this statement: the business of newspapers is attracting, then selling attention - that's how it worked. That doesn't diminish its societal functions
 * we have to understand where the money came from to make that all possible
@@ -33,22 +33,22 @@ TJ pics
 * bundled newspaper had loads of other things - obits, crosswords, comics, movie listings etc - and it had ads
 * ads were revenue stream for newspapers - were 80% in US, 70% in Aus
 * they added to value of readers' experience ie, before internet shopping
-* internet communications tech unbundled the newspaper
+* **internet communications tech unbundled the newspaper**
 * behaviour of reading a newspaper, you see the headlines, you see the ads, you move across and up and down, looking and thinking
 * this doesn't happen online. People aren't going to news websites and scanning around etc, we just look and read the thing we want
 * that matters to advertisers because that diminishes the value of the space there
 * information can be commercialized - weather \(bom\), on demand - a very specific advertising location
 * "ubiquity of news on social media and websites diminished its commodity value"
-* **key slide** - advertising $ have shifted to better tools. A tech like "search" means businesses can place ads infront of people who are searching for a product, ie school shoes
+* **key slide** - **advertising $ have shifted to better tools**. A tech like "search" means businesses can place ads infront of people who are searching for a product, ie school shoes
 * in contrast, a display ad in a paper - who is going to see that?
 
 ![](../.gitbook/assets/screen-shot-2021-02-24-at-8.13.42-pm.png)
 
-* None of this has anything to do with news or journalism
+* **None of this has anything to do with news or journalism**
 * newspapers are no longer the best way to attract attention
 * the value of the bundle has eroded; advertisers are using better tools
 * newspapers have lost the ad revenue that supported the news and journalism
-* in the background, there's a couple of other factors - the corporatisation of newspapers & cross media competition
+* in the background, **there's a couple of other factors** - the corporatisation of newspapers & cross media competition
 * corporatisation - leads news orgs to enter digital age in weakened state. Publicly traded stocks, began late 60s, full force by 80s
 * at that point, newspapers became beholden to profit and loss reporting
 * corporatisation was the kindling before the spark of digitisation
@@ -64,7 +64,7 @@ TJ pics
 ![](../.gitbook/assets/screen-shot-2021-02-24-at-8.33.17-pm.png)
 
 * what are the solutions?
-* the core problem is funding - but we need to understand that ad money is the past
+* the core problem is funding - **but we need to understand that ad money is the past**
 * subscription and public funding at scale are most viable solutions
 * "we still need the roads. we're going to have to figure out how to pay for them."
 * a democratic society cannot function without news and journalism
