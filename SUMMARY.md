@@ -10,6 +10,7 @@
 
 * [Feb 2021 - Prof Amanda Lotz](meetup-notes/feb-2021-prof-amanda-lotz.md)
 * [March - Michael and Jules, natural language generation](meetup-notes/march-michael-and-jules-natural-language-generation.md)
+* [May 2021 - Joseph Burgess & Skye Doherty, alt storytelling](meetup-notes/may-2021-joseph-burgess-and-skye-doherty-alt-storytelling.md)
 
 ## Newsletter
 
