@@ -2,9 +2,9 @@
 
 [https://research.qut.edu.au/dmrc/people/amanda-lotz/](https://research.qut.edu.au/dmrc/people/amanda-lotz/)
 
-Vid [https://qut.zoom.us/rec/share/z4xhrdA8N4TqhnHaBIp9tIqz-T4s9ftxik3jFHA2LE9ccj7dtnN5-lItM\_p07pHb.gf48JPecKwNCpyss](https://qut.zoom.us/rec/share/z4xhrdA8N4TqhnHaBIp9tIqz-T4s9ftxik3jFHA2LE9ccj7dtnN5-lItM_p07pHb.gf48JPecKwNCpyss) Passcode: m!7f6Xia
+Vid [https://qut.zoom.us/rec/share/z4xhrdA8N4TqhnHaBIp9tIqz-T4s9ftxik3jFHA2LE9ccj7dtnN5-lItM\_p07pHb.gf48JPecKwNCpyss](https://qut.zoom.us/rec/share/z4xhrdA8N4TqhnHaBIp9tIqz-T4s9ftxik3jFHA2LE9ccj7dtnN5-lItM\_p07pHb.gf48JPecKwNCpyss) Passcode: m!7f6Xia
 
-tweets 
+tweets&#x20;
 
 TJ pics
 
@@ -15,12 +15,12 @@ TJ pics
 * studying internet disruption of TV since early 2000s
 * by looking at one sector, maybe that might help us have more sophisticated conversations about how net tech disrupted more sectors
 * I rely on macro level data
-* Graph in Conversation piece - ad spend on platforms  
-* 2nd graph - what has happened in terms of sales - shows strong decline from 1977 ie, before digital emergence 
+* Graph in Conversation piece - ad spend on platforms &#x20;
+* 2nd graph - what has happened in terms of sales - shows strong decline from 1977 ie, before digital emergence&#x20;
 * phenomenon with much longer history than the digital era
 * Reuters study graphs - time spent with news was 16 mins per week
 * I'm going to talk about journalism in a way that journalist don't usually talk about journalism - that is, that it's a business
-*  Other industries have responded well
+* &#x20;Other industries have responded well
 * **perhaps the focus has been on the wrong thing** - breaking down to profit and revenue, it's about trying to shift the focus a little bit
 * maybe if we can look at the situation from another angle, we can start looking at actual solutions
 * an industrial analysis starts with this statement: the business of newspapers is attracting, then selling attention - that's how it worked. That doesn't diminish its societal functions
@@ -37,12 +37,12 @@ TJ pics
 * behaviour of reading a newspaper, you see the headlines, you see the ads, you move across and up and down, looking and thinking
 * this doesn't happen online. People aren't going to news websites and scanning around etc, we just look and read the thing we want
 * that matters to advertisers because that diminishes the value of the space there
-* information can be commercialized - weather \(bom\), on demand - a very specific advertising location
+* information can be commercialized - weather (bom), on demand - a very specific advertising location
 * "ubiquity of news on social media and websites diminished its commodity value"
 * **key slide** - **advertising $ have shifted to better tools**. A tech like "search" means businesses can place ads infront of people who are searching for a product, ie school shoes
 * in contrast, a display ad in a paper - who is going to see that?
 
-![](../.gitbook/assets/screen-shot-2021-02-24-at-8.13.42-pm.png)
+![](<../.gitbook/assets/Screen Shot 2021-02-24 at 8.13.42 pm.png>)
 
 * **None of this has anything to do with news or journalism**
 * newspapers are no longer the best way to attract attention
@@ -61,16 +61,14 @@ TJ pics
 * what about local? for the most part, the internet has not really replaced this. there's a market for readers and advertisers
 * However, local doesn't scale. So that makes it look less like a good investment
 
-![](../.gitbook/assets/screen-shot-2021-02-24-at-8.33.17-pm.png)
+![](<../.gitbook/assets/Screen Shot 2021-02-24 at 8.33.17 pm.png>)
 
 * what are the solutions?
 * the core problem is funding - **but we need to understand that ad money is the past**
 * subscription and public funding at scale are most viable solutions
 * "we still need the roads. we're going to have to figure out how to pay for them."
 * a democratic society cannot function without news and journalism
-* the "value" of journalism cannot be exposed by graphs or data trying to consider what is lost if it's not there 
-
-
+* the "value" of journalism cannot be exposed by graphs or data trying to consider what is lost if it's not there&#x20;
 
 
 
